@@ -1,2 +1,2 @@
 # RPJ-Toolkit
-A toolkit to generate synthetic optical flow.
+*RPJ Toolkit generates optical flow on virtual scene，it is currently on early development. If you want to collaborate with me or use it in your research, you can contact me in no time.*©Yin-tao, Xu
